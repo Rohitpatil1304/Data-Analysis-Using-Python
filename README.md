@@ -4,7 +4,7 @@
 This project analyzes Diwali sales data using Python and it's libraries like Pandas, Matplotlib, and Seaborn. The objective is to extract meaningful insights from the sales dataset, including customer demographics, purchasing behavior, and product performance. The analysis helps businesses understand consumer trends and optimize future sales strategies.
 
 # Dataset 
-You can get dataset here : [Dataset]()
+You can get dataset here : [Dataset](https://github.com/Rohitpatil1304/Data-Analysis-Using-Python/blob/main/Diwali%20Sales%20Dataset.csv)
 
 # Features
 - Data Cleaning and Preprocessing (handling missing values,replacing values with NaN, data types).
